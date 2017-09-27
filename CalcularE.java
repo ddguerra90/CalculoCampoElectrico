@@ -74,6 +74,6 @@ public class CalcularE {
         System.out.println(" ");
         System.out.println("El campo resultante es ");
         System.out.println(resultado[0] + "*10^6" + " i + " + resultado[1] + "*10^6" + " j + " + resultado[2] + "*10^6" + " k");
-    }
+    } 
     
 }
